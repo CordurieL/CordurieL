@@ -2,13 +2,19 @@
 
 Étudiant de 3ᵉ année en informatique (Licence Pro CIASIE)
 
-<div style="display: flex;flex-direction: column;">
-  <div style="display: flex;flex-direction: column;>
-<a href="https://github.com/CordurieL/Chrono_Chroma"><img alt="Chrono Chroma" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Chrono_Chroma&theme=dark&icon_color=b" width="400" height="140"></a>
-<a href="https://github.com/CordurieL/Appli_Flutter_Reunion"><img alt="Appli Flutter Reunion" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Appli_Flutter_Reunion&theme=dark&icon_color=b" width="400" height="140"></a>
-<a href="https://github.com/CordurieL/Litra-ProjetTutore"><img alt="Litra" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Litra-ProjetTutore&theme=dark&icon_color=b" width="400" height="140"></a>
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CordurieL&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="CordurieL" width="420"/>
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr;">
+  <div style="display: grid; grid-template-columns: 1fr; grid-template-rows: 1fr 1fr 1fr;">
+    <a href="https://github.com/CordurieL/Chrono_Chroma">
+      <img alt="Chrono Chroma" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Chrono_Chroma&theme=dark&icon_color=b" width="400" height="140">
+    </a>
+    <a href="https://github.com/CordurieL/Appli_Flutter_Reunion">
+      <img alt="Appli Flutter Reunion" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Appli_Flutter_Reunion&theme=dark&icon_color=b" width="400"        height="140">
+    </a>
+    <a href="https://github.com/CordurieL/Litra-ProjetTutore">
+  <img alt="Litra" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Litra-ProjetTutore&theme=dark&icon_color=b" width="400" height="140">
+    </a>
+  </div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CordurieL&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="CordurieL" width="350"/></div>
 </div>
 
 # 💻 Principales technologies utilisées:
