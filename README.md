@@ -18,8 +18,8 @@
       <img alt="Appli Flutter/Web Reunion" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Appli_Flutter_Web_Reunion&theme=dark&icon_color=b" width="400"        height="140"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"> <a href="https://github.com/CordurieL/Litra-Portefeuille">
-  <img alt="Litra Portefeuille" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Litra-Portefeuille&theme=dark&icon_color=b" width="400" height="140">
+    <td class="tg-0lax"> <a href="https://github.com/CordurieL/Litra_Portefeuille">
+  <img alt="Litra Portefeuille" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Litra_Portefeuille&theme=dark&icon_color=b" width="400" height="140">
     </a></td></td>
   </tr>
 </table>
