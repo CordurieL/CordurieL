@@ -1,18 +1,18 @@
-# 💫 About Me:
+# 💫 À propos:
 
 Étudiant de 3ᵉ année en informatique (Licence Pro CIASIE)
 
-## 🌐 Socials:
+## 🌐 Liens:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cordurie/)
 
-# 📊 GitHub Stats:
+# 📊 Statistiques GitHub:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CordurieL&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 <!--![](https://github-readme-stats.vercel.app/api?username=CordurieL&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CordurieL&theme=monokai&hide_border=false)-->
 
-# 💻 Tech Stack:
+# 💻 Principales technologies utilisées:
 
 ## Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
