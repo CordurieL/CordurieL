@@ -9,17 +9,17 @@
     <td class="tg-0pky" rowspan="4"><h2>Sur l'ensemble des projets</h2><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CordurieL&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="CordurieL" width="350"/><br></td>
   </tr>
     <tr>
-   <td class="tg-0pky"><a href="https://github.com/CordurieL/Chrono_Chroma">
-      <img alt="Chrono Chroma" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Chrono_Chroma&theme=dark&icon_color=b" width="400" height="140">
+   <td class="tg-0pky"><a href="https://github.com/CordurieL/Chrono_Chroma_Jeu_Mobile">
+      <img alt="Chrono Chroma Jeu Mobile" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Chrono_Chroma_Jeu_Mobile&theme=dark&icon_color=b" width="400" height="140">
     </a></td>
         </tr>
   <tr>
-    <td class="tg-0lax"> <a href="https://github.com/CordurieL/Appli_Flutter_Reunion">
-      <img alt="Appli Flutter Reunion" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Appli_Flutter_Reunion&theme=dark&icon_color=b" width="400"        height="140"></td>
+    <td class="tg-0lax"> <a href="https://github.com/CordurieL/Appli_Flutter_Web_Reunion">
+      <img alt="Appli Flutter/Web Reunion" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Appli_Flutter_Web_Reunion&theme=dark&icon_color=b" width="400"        height="140"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"> <a href="https://github.com/CordurieL/Litra-ProjetTutore">
-  <img alt="Litra" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Litra-ProjetTutore&theme=dark&icon_color=b" width="400" height="140">
+    <td class="tg-0lax"> <a href="https://github.com/CordurieL/Litra-Portefeuille">
+  <img alt="Litra Portefeuille" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Litra-Portefeuille&theme=dark&icon_color=b" width="400" height="140">
     </a></td></td>
   </tr>
 </table>
