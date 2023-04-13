@@ -9,7 +9,7 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=CordurieL&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CordurieL&theme=monokai&hide_border=false)-->
 
-<div>
+<div style="display: grid;grid-template-columns: repeat(2,450px)>
 <a href="https://github.com/CordurieL/Chrono_Chroma"><img alt="Chrono Chroma" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Chrono_Chroma&theme=dark&icon_color=b" width="300" height="140"></a>
 <a href="https://github.com/CordurieL/Appli_Flutter_Reunion"><img alt="Appli Flutter Reunion" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Appli_Flutter_Reunion&theme=dark&icon_color=b" width="300" height="140"></a>
 <a href="https://github.com/CordurieL/Litra-ProjetTutore"><img alt="Litra" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Litra-ProjetTutore&theme=dark&icon_color=b" width="300" height="140"></a>
