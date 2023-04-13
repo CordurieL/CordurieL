@@ -2,13 +2,17 @@
 
 Étudiant de 3ᵉ année en informatique (Licence Pro CIASIE)
 
+# 📁 Projets:
 <table style="width: 100vw">
   <tr>
-    <td class="tg-0pky"><a href="https://github.com/CordurieL/Chrono_Chroma">
+    <td class="tg-0pky"><h2>Quelques projets</h2></td>
+    <td class="tg-0pky" rowspan="4"><h2>Sur l'ensemble des projets</h2><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CordurieL&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="CordurieL" width="350"/><br></td>
+  </tr>
+    <tr>
+   <td class="tg-0pky"><a href="https://github.com/CordurieL/Chrono_Chroma">
       <img alt="Chrono Chroma" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Chrono_Chroma&theme=dark&icon_color=b" width="400" height="140">
     </a></td>
-    <td class="tg-0pky" rowspan="3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CordurieL&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="CordurieL" width="350"/><br></td>
-  </tr>
+        </tr>
   <tr>
     <td class="tg-0lax"> <a href="https://github.com/CordurieL/Appli_Flutter_Reunion">
       <img alt="Appli Flutter Reunion" src="https://garnx.vercel.app/api/pin/?username=CordurieL&repo=Appli_Flutter_Reunion&theme=dark&icon_color=b" width="400"        height="140"></td>
