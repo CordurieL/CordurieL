@@ -1,4 +1,4 @@
-# 💫 À propos: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cordurie/)
+# 💫 À propos:
 
 Étudiant de 3ᵉ année en informatique (Licence Pro CIASIE)
 
